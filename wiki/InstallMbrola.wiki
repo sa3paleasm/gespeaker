@@ -3,7 +3,9 @@
 
 = Introduction =
 
-Gespeaker can use mbrola to play text with a more realistic speech. Just to install the mbrola package and at least a mbrola language.
+Gespeaker can use mbrola to play text with a more realistic speech. Just to install
+  * mbrola package
+  * one or more mbrola language packages
 
 == Requirements for Ubuntu users ==
 
@@ -50,3 +52,9 @@ Then one or more voice packages must be installed from the following table:
 || Swedish female               || mbrola-sw2   ||
 || American English female      || mbrola-us1   ||
 || American English male        || mbrola-us2   ||
+
+Install a package language with:
+{{{
+sudo apt-get install mbrola-us2
+}}}
+This will install the American English male voice for mbrola.
