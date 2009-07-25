@@ -1,0 +1,18 @@
+#summary Install Mbrola support for Gespeaker
+#labels Featured,Phase-Requirements
+
+= Introduction =
+
+Gespeaker can use mbrola to play text with a more realistic speech. Just to install the mbrola package and at least a mbrola language.
+
+== Requirements for Ubuntu users ==
+
+Until Ubuntu packagers will not include mbrola in the official repositories the Ubuntu users will need to install mbrola and the voices from the Ubuntu Trucchi repository in this way:
+
+{{{
+sudo wget -O /etc/apt/sources.list.d/ubuntutrucchi.list http://www.ubuntutrucchi.it/repository/ubuntutrucchi.list
+
+wget -O - http://www.ubuntutrucchi.it/repository/ubuntutrucchi.asc | sudo apt-key add -
+
+sudo apt-get update
+}}}
