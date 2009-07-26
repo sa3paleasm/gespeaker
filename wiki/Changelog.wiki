@@ -24,7 +24,7 @@ http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-8.jpg
   * Added a statusbar showing the active record mode.
   * Added preferences dialog.
   * Added preferences save and reload for welcome message, window size, voice settings and expander status.
-  * Added support for audio frontend: ALSA (aplay), PulseAudio (paplay) and user customized player command, with audio command test.
+  * Added support for audio frontend: `ALSA` (aplay), `PulseAudio` (paplay) and user customized player command, with audio command test.
   * Added voice variants by scanning `/usr/share/espeak-data/voices/!v` folder for extra voice variants.
   * Fixed stock icon for `DialogFileOpenSave`.
 
