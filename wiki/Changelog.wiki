@@ -11,8 +11,7 @@
   * Tabbed preferences dialog for new mbrola support.
   * Moved language, voice type and variants to base settings and pitch, volume, speed and gap sliders to advanced settings upon suggestion of frandavid100.
   * Added automatic txt extension on saving text file.
-  * Added automatic wav extension on saving WAVE file. This was causing weird
-    noises on playing the recorded track if it wasn't a .wav filename.
+  * Added automatic wav extension on saving WAVE file. This was causing weird noises on playing the recorded track if it wasn't a .wav filename.
 
 http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-5.jpg
 http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-8.jpg
