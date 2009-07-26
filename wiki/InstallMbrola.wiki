@@ -58,3 +58,9 @@ Install a package language with:
 sudo apt-get install mbrola-us2
 }}}
 This will install the American English male voice for mbrola.
+
+== Check if mbrola voices are detected ==
+
+Start Gespeaker and open *Preferences* dialog from *Edit* menu, then move to the *Mbrola voices* tab and check if *Main program mbrola* was detected and the same for the installed voice packages. Change voices path if needed, default voices install path is _/usr/share/mbrola/voices/_.
+
+http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-8.jpg
