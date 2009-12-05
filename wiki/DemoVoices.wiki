@@ -1,0 +1,34 @@
+#summary Demo voices
+#labels Phase-Support
+
+= International readers =
+
+Here're a couple of recorded voices from Gespeaker reading the following text:
+`I present you Gespeaker, an application that allows you to let talk our Linux system through the use of synthesized voices that will read the text in several languages, english included.`
+
+[http://gespeaker.googlecode.com/files/gespeaker-enm.wav English male voice from espeak]
+
+[http://gespeaker.googlecode.com/files/gespeaker-enf.wav English female voice from espeak]
+
+[http://gespeaker.googlecode.com/files/gespeaker-en1.wav English male voice from mbrola]
+
+[http://gespeaker.googlecode.com/files/gespeaker-us2.wav American male voice from mbrola]
+
+[http://gespeaker.googlecode.com/files/gespeaker-us1.wav American female voice from mbrola]
+
+Italian pronunciation can be found on the links below.
+
+= Lettori italiani (Italian readers) =
+
+Ecco alcune voci registrate da Gespeaker per la lettura del seguente testo:
+`Vi presento Gespeaker, un applicativo che consente di far parlare il nostro sistema Linux attraverso l'uso di voci sintetizzate che leggeranno il testo inserito in varie lingue, italiano compreso.`
+
+[http://gespeaker.googlecode.com/files/gespeaker-itm.wav Voce italiana maschile da espeak]
+
+[http://gespeaker.googlecode.com/files/gespeaker-itf.wav Voce italiana femminile da espeak]
+
+[http://gespeaker.googlecode.com/files/gespeaker-it3.wav Voce italiana maschile da mbrola]
+
+[http://gespeaker.googlecode.com/files/gespeaker-it4.wav Voce italiana femminile da mbrola]
+
+La pronuncia inglese si può trovare nei collegamenti della sezione superiore.
