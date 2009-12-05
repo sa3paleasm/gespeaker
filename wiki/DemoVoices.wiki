@@ -1,5 +1,5 @@
 #summary Demo voices
-#labels Phase-Support
+#labels Phase-Support,Featured
 
 = International readers =
 
