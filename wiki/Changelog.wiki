@@ -1,6 +1,12 @@
 #summary Changelog.
 #labels Featured,Phase-Design
 
+=== Version 0.7 (Sun, 13 Dic 2009) ===
+
+  * New handlepaths module to reflect the changed directory structure.
+  * New setup.py for distutils installation
+  * New packaging following the Debian policy
+
 === Version 0.6 (Sat, 18 Jul 2009) ===
 
   * Fixed audio testing localized string.
