@@ -1,5 +1,5 @@
 #summary Screenshots for italian localization
-#labels Phase-Support
+#labels Phase-Design
 
 http://www.ubuntutrucchi.it/gespeaker/current/it/main.png
 
