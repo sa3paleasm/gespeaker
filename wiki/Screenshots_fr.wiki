@@ -1,5 +1,5 @@
 #summary Screenshots for french localization
-#labels Phase-Support
+#labels Phase-Design
 
 http://www.ubuntutrucchi.it/gespeaker/current/fr/main.png
 
