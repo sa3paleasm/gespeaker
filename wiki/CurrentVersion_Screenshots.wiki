@@ -1,10 +1,10 @@
-#summary Screenshots of current version.
+#summary Screenshots
 #labels Featured,Phase-Design
 
-= These are the screenshots of the current version =
+[Screenshots_en] for english localization
 
-http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-5.jpg
-http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-6.jpg
+[Screenshots_it] for italian localization
 
-http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-7.jpg
-http://ubuntrucchi.files.wordpress.com/2009/06/gespeaker-06-8.jpg
+[Screenshots_fr] for french localization
+
+[Screenshots_es] for spanish localization
