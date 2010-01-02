@@ -1,7 +1,7 @@
 #summary Supported languages for reading and interfaces.
 #labels Phase-Support,Featured
 
-= Supported program translations =
+= Supported program localizations =
 
   * English
   * French
