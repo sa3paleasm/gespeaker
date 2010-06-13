@@ -8,3 +8,5 @@
 [Screenshots_fr] for french localization
 
 [Screenshots_es] for spanish localization
+
+[Screenshots_pl] for polish localization
