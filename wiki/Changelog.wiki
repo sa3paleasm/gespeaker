@@ -1,7 +1,7 @@
 #summary Changelog.
 #labels Featured,Phase-Design
 
-=== Version 0.7 (Sun, 13 Jun 2010) ===
+=== Version 0.8 (Sun, 13 Jun 2010) ===
 
   * Moved translators from .po files to doc/translators
   * New polish translation by Andrey J.
