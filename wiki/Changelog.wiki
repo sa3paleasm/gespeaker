@@ -14,7 +14,7 @@
   * New setup.py for distutils installation.
   * New packaging following the Debian policy.
 
-http://www.ubuntutrucchi.it/gespeaker/0.7/en/about.png
+http://www.muflone.com/projects/gespeaker/0.7/en/about.png
 
 
 === Version 0.6 (Sat, 18 Jul 2009) ===
@@ -29,8 +29,8 @@ http://www.ubuntutrucchi.it/gespeaker/0.7/en/about.png
   * Added automatic txt extension on saving text file.
   * Added automatic wav extension on saving WAVE file. This was causing weird noises on playing the recorded track if it wasn't a .wav filename.
 
-http://www.ubuntutrucchi.it/gespeaker/0.6/en/main.jpg
-http://www.ubuntutrucchi.it/gespeaker/0.6/en/mbrola.jpg
+http://www.muflone.com/projects/gespeaker/0.6/en/main.jpg
+http://www.muflone.com/projects/gespeaker/0.6/en/mbrola.jpg
 
 === Version 0.5 (Fri, 30 Jun 2009) ===
 
@@ -44,8 +44,8 @@ http://www.ubuntutrucchi.it/gespeaker/0.6/en/mbrola.jpg
   * Added voice variants by scanning `/usr/share/espeak-data/voices/!v` folder for extra voice variants.
   * Fixed stock icon for `DialogFileOpenSave`.
 
-http://www.ubuntutrucchi.it/gespeaker/0.5/en/main.png
-http://www.ubuntutrucchi.it/gespeaker/0.5/en/preferences.png
+http://www.muflone.com/projects/gespeaker/0.5/en/main.png
+http://www.muflone.com/projects/gespeaker/0.5/en/preferences.png
 
 === Version 0.4 (Fri, 20 Jun 2009) ===
 
@@ -57,7 +57,7 @@ http://www.ubuntutrucchi.it/gespeaker/0.5/en/preferences.png
   * New icon and logo, kindly provided by MIX.
   * New french translation provided by Emmanuel.
 
-http://www.ubuntutrucchi.it/gespeaker/0.4/en/main.png
+http://www.muflone.com/projects/gespeaker/0.4/en/main.png
 
 === Version 0.3 (Thu, 18 Jun 2009) ===
 
@@ -74,10 +74,10 @@ http://www.ubuntutrucchi.it/gespeaker/0.4/en/main.png
   * Fixed `DialogAbout.set_icon_from_file` icon usage, which was wrongly hardcoded.
   * Symlinked copyright file to `/usr/share/doc/gespeaker/copyright`
 
-http://www.ubuntutrucchi.it/gespeaker/0.2/en/main.png
+http://www.muflone.com/projects/gespeaker/0.2/en/main.png
 
 === Version 0.1 (Sat, 13 Jun 2009) ===
 
   * Initial release
 
-http://www.ubuntutrucchi.it/gespeaker/0.1/en/main.jpg
+http://www.muflone.com/projects/gespeaker/0.1/en/main.jpg
