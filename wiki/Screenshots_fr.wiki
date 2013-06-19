@@ -1,12 +1,12 @@
 #summary Screenshots for french localization
 #labels Phase-Design
 
-http://www.ubuntutrucchi.it/gespeaker/current/fr/main.png
+http://www.muflone.com/projects/gespeaker/current/fr/main.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/fr/reduced.png
+http://www.muflone.com/projects/gespeaker/current/fr/reduced.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/fr/preferences.png
+http://www.muflone.com/projects/gespeaker/current/fr/preferences.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/fr/mbrola.png
+http://www.muflone.com/projects/gespeaker/current/fr/mbrola.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/fr/about.png
+http://www.muflone.com/projects/gespeaker/current/fr/about.png
