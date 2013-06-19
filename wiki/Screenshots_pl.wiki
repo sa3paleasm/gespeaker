@@ -1,12 +1,12 @@
 #summary Screenshots for polish localization
 #labels Phase-Design
 
-http://www.ubuntutrucchi.it/gespeaker/current/pl/main.png
+http://www.muflone.com/projects/gespeaker/current/pl/main.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/pl/reduced.png
+http://www.muflone.com/projects/gespeaker/current/pl/reduced.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/pl/preferences.png
+http://www.muflone.com/projects/gespeaker/current/pl/preferences.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/pl/mbrola.png
+http://www.muflone.com/projects/gespeaker/current/pl/mbrola.png
 
-http://www.ubuntutrucchi.it/gespeaker/current/pl/about.png
+http://www.muflone.com/projects/gespeaker/current/pl/about.png
