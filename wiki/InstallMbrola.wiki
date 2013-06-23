@@ -1,5 +1,5 @@
 #summary Install Mbrola support for Gespeaker
-#labels Featured,Phase-Support
+#labels Deprecated,Phase-Support
 
 = Introduction =
 
