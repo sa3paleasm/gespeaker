@@ -1,5 +1,5 @@
 #summary Screenshots
-#labels Featured,Phase-Design
+#labels Deprecated,Phase-Design
 
 [Screenshots_en] for english localization
 
