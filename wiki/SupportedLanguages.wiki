@@ -1,5 +1,5 @@
 #summary Supported languages for reading and interfaces.
-#labels Phase-Support,Featured
+#labels Phase-Support,Deprecated
 
 = Supported program localizations =
 
