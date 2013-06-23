@@ -1,5 +1,5 @@
 #summary Repository for Ubuntu users.
-#labels Featured,Phase-Deploy
+#labels Deprecated,Phase-Deploy
 
 = Introduction =
 
