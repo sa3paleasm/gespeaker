@@ -1,5 +1,5 @@
 #summary Screenshots for english localization
-#labels Phase-Design
+#labels Phase-Design,Deprecated
 
 http://www.muflone.com/projects/gespeaker/current/en/main.png
 
