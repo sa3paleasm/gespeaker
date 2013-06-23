@@ -1,5 +1,5 @@
 #summary Changelog.
-#labels Featured,Phase-Design
+#labels Deprecated,Phase-Design
 
 === Version 0.8 (Sun, 13 Jun 2010) ===
 
