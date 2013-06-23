@@ -1,5 +1,5 @@
 #summary Demo voices
-#labels Phase-Support,Featured
+#labels Phase-Support,Deprecated
 
 = International readers =
 
