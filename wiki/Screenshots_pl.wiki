@@ -1,5 +1,5 @@
 #summary Screenshots for polish localization
-#labels Phase-Design
+#labels Phase-Design,Deprecated
 
 http://www.muflone.com/projects/gespeaker/current/pl/main.png
 
